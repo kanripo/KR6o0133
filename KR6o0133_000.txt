@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛三身讚
+#+DATE: 2015-08-30 21:01:27.625338
+#+PROPERTY: JUAN 0
